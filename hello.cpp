@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    int num = 25;
+    int h;
+    std:: cin >> h;
     std::cout << "hello";
 }
